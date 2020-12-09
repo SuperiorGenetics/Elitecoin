@@ -1,0 +1,3 @@
+[submodule "elitecoin"]
+	path = elitecoin
+	url = git@github.com:superiorgenetics/elitecoin.git
